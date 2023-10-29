@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b65c5f3-8225-48c5-a6cd-ea82954ffdf7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/FoodDeliverPlatformApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Model/AdminAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Model/AuthenticationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Model/Enum/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Model/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Repository/IAaccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Repository/IAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Repository/IFoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Repository/IOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Repository/IToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Repository/IUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Service/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/java/restaurant/FoodDelivery/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodDelivery/src/test/java/restaurant/FoodDelivery/FoodDeliverPlatformApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2XRlMHo5uMPk120uIBEHqCnHpzp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b65c5f3-8225-48c5-a6cd-ea82954ffdf7" name="Changes" comment="" />
+      <created>1698599724508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698599724508</updated>
+    </task>
+    <servers />
+  </component>
+</project>
